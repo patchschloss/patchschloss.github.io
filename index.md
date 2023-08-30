@@ -20,5 +20,5 @@ title: Home
 
 ![SCHLOSS_Project5_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f3edb0f5-edca-47a6-9690-8f285eff7ec3)
 <p>&nbsp;</p>
-![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/530ef9b8-d837-4936-854d-1da60a8d25c5)
 
+![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/7bcc9dd1-30ac-4647-aae4-a511b53a124d)
