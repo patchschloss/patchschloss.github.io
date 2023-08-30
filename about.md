@@ -19,4 +19,8 @@ Check out my social accounts below but the most reliable way to get ahold of me 
 
 [Artstation](https://www.artstation.com/patch_schloss)
 
+[LinkTree](https://linktr.ee/patch_schloss)
+
+[LinkedIn](https://www.linkedin.com/in/patch-schloss/)
+
 ### <em>Thanks for visiting!</em>
