@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About/Contact
 ---
 
 <img align="right" width="250" height="250" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/eda5d7dc-7dad-4b6f-980c-a16e91918c6b">
