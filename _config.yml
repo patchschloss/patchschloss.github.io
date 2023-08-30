@@ -4,7 +4,7 @@ tagline:             'Illustrator'
 description:         'Illustrator, Character Designer, Michigander, Unfunny Human'
 url:                 https://patchschloss.github.io/
 baseurl:             ''
-paginate:            5
+paginate:            
 permalink:           pretty
 
 # About/contact
