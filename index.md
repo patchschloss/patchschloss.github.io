@@ -14,11 +14,13 @@ title: Home
 ![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
 
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
+"Gentle" Gouache and Watercolor on Illustration Board
 
 ![SCHLOSS_Project4_Final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6de048a3-bba0-4758-ab50-8b5f500ed398)
 
 ![SCHLOSS_Project5_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f3edb0f5-edca-47a6-9690-8f285eff7ec3)
 
 ![SCHLOSS_Project#4_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/1d68e723-ea8a-4067-872e-1f2e79f159a2)
+"The Flower of Youth" Collage on Black Watercolor Paper
 
 ![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/7bcc9dd1-30ac-4647-aae4-a511b53a124d)
