@@ -8,6 +8,7 @@ title: Illustration
 ![IMG-0593](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/715cb146-4eb1-4834-ad88-4b51a5c86bac)
 
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
+"Daphne"
 
 ![SCHLOSS_Project2_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/0ed37b5f-5476-43be-8e9c-45af573ffc8e)
 
