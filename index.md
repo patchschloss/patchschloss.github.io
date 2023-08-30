@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Illustration
 ---
 
 ![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
