@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-index . html
+index . md
