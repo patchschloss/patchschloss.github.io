@@ -3,7 +3,11 @@ layout: page
 title: About
 ---
 
-<img src="logo.png" alt="drawing" width="200"/>
+
+| - | - |
+|---|---|
+| I am text to the left  | ![logo](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/05e73a0e-284f-430f-b452-d4341cb072b2) |
+| ![logo](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/eda5d7dc-7dad-4b6f-980c-a16e91918c6b) | I am text to the right |
 
 ## Hi there! I'm Patrick Schloss.
 I'm a junior at John Paul the Great Catholic University, where I'm studying animation with a focus on visual development and illustration.
