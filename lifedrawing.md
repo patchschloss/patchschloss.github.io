@@ -2,13 +2,15 @@
 layout: page
 title: Life Drawing
 ---
-![IMG_9415bottom](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/b3f564b6-0e29-4c0c-ba58-c58ff67494cb)
- <p>&nbsp;</p>
 
-![IMG_9416](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/75cfa644-4f0d-4e8b-8e0b-20b8fa76cefe)
+ 
+![IMG_9415bottom](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/d01ab55a-5c35-4b4a-8845-ecaebfe7d499)
 <p>&nbsp;</p>
 
-![IMG_9420](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/39ef0539-519a-41c0-bc99-5bbfe7653d45)
+![IMG_9416](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/56640fe5-f886-4352-b684-ea41aa0d1c1b)
+<p>&nbsp;</p>
+
+![IMG_9420](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6d177c61-a7a7-432e-b1d3-e893b8b1258a)
 <p>&nbsp;</p>
 
 ![IMG_8029crop](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/bd150d47-90ee-4a9f-88f9-cbf226d325cc)
