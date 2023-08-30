@@ -2,23 +2,23 @@
 layout: default
 title: Home
 ---
-![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/86fba704-f52d-40b4-895b-ee2cb5f62248)
+
+![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
 <p>&nbsp;</p>
 
-
-![SCHLOSS_Project2_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/d1d8f104-b0da-4709-b5c6-e858fd76a866)
+![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
 <p>&nbsp;</p>
 
-![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/5bc7d333-3944-40f2-8e17-42cf3363dcbb)
+![SCHLOSS_Project2_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/0ed37b5f-5476-43be-8e9c-45af573ffc8e)
 <p>&nbsp;</p>
 
-![SCHLOSS_Project4_Final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/5f29a156-cd9e-4c82-b216-c6756f857638)
+![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
 <p>&nbsp;</p>
 
-![SCHLOSS_Project5_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/cd44fbb3-5063-42f7-bd56-6d2d5c6b9259)
+![SCHLOSS_Project4_Final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6de048a3-bba0-4758-ab50-8b5f500ed398)
 <p>&nbsp;</p>
 
-![Florant in the Woods](https://user-images.githubusercontent.com/14957489/232976759-4f41b9f3-a601-4829-88c1-78eefd06d5f1.jpg)
+![SCHLOSS_Project5_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f3edb0f5-edca-47a6-9690-8f285eff7ec3)
 <p>&nbsp;</p>
+![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/530ef9b8-d837-4936-854d-1da60a8d25c5)
 
-![Daphne](https://user-images.githubusercontent.com/14957489/232976766-d678bd34-1344-452e-8055-09802720f13d.jpg)
