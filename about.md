@@ -14,10 +14,6 @@ I grew up on a small family farm in Dexter, Michigan, which has given me an appr
 I'd love to receive any and all carrier pigeons and magical paper airplanes but the most reliable way to get ahold of me is to send me an email at: **patchschloss@gmail.com**
 
 ### Links
-
-https://github.com/patchschloss/patchschloss.github.io/assets/14957489/eda5d7dc-7dad-4b6f-980c-a16e91918c6b
-
-
 [Instagram](https://www.instagram.com/patch_schloss/)
 
 [Facebook](https://www.facebook.com/patch.schloss/)
