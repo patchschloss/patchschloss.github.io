@@ -3,7 +3,7 @@ layout: page
 title: About/Contact
 ---
 
-<img align="right" width="250" height="250" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/eda5d7dc-7dad-4b6f-980c-a16e91918c6b">
+<img align="right" width="250" height="250" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/32b660a1-3cec-48cd-b2fe-8888c88c9a4b">
 
 ## Hi there! My name is Patrick Schloss.
 I'm a junior at John Paul the Great Catholic University, where I'm studying animation with a focus on visual development and illustration. 
@@ -14,6 +14,10 @@ I grew up on a small family farm in Dexter, Michigan, which has given me an appr
 I'd love to receive any and all carrier pigeons and magical paper airplanes but the most reliable way to get ahold of me is to send me an email at: **patchschloss@gmail.com**
 
 ### Links
+
+https://github.com/patchschloss/patchschloss.github.io/assets/14957489/eda5d7dc-7dad-4b6f-980c-a16e91918c6b
+
+
 [Instagram](https://www.instagram.com/patch_schloss/)
 
 [Facebook](https://www.facebook.com/patch.schloss/)
