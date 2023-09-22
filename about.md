@@ -3,7 +3,7 @@ layout: page
 title: About/Contact
 ---
 
-<img align="right" width="468" height="702" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/daf2b270-7cef-4d93-99a9-c65941c06466">
+<img align="right" width="234" height="351" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/daf2b270-7cef-4d93-99a9-c65941c06466">
 
 
 ## Hi there! My name is Patrick Schloss.
