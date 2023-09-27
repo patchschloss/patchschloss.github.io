@@ -2,7 +2,7 @@
 title:               Patrick Schloss
 tagline:             'Illustrator'
 description:         'Illustrator, Character Designer, Visdev Artist'
-url:                 https://patchschloss.github.io
+url:                 https://patrickschloss.art/
 baseurl:             ''
 paginate:            
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Patrick Schloss
-  url:               https://patchschloss.github.io
+  url:               https://patrickschloss.art/
   email:             pnschloss@gmail.com
 
 # Gems
