@@ -2,7 +2,7 @@
 layout: default
 title: Illustration
 ---
-![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966) |  ![Project1](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/82eb867c-1159-4804-9ac9-5404b924a92b) | ![SCHLOSS_Project1_thumbs](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/2d3d9c53-c270-4fcd-a0e9-0069a413f5b4)
+![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
 Collective Noun Spot Illustration - Ink on Bristol
 
 ![IMG-0593](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/715cb146-4eb1-4834-ad88-4b51a5c86bac)
