@@ -3,12 +3,12 @@ layout: default
 title: Illustration
 ---
 {% capture images %}
-	https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+  ![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
+  ![Project1](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/82eb867c-1159-4804-9ac9-5404b924a92b)
+  ![SCHLOSS_Project1_thumbs](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/2d3d9c53-c270-4fcd-a0e9-0069a413f5b4)
+
 {% endcapture %}
 {% include gallery images=images caption="Collective Noun Spot Illustration - Ink on Bristol" cols=1 %}
-
 
 ![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
 Collective Noun Spot Illustration - Ink on Bristol
