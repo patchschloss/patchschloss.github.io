@@ -40,3 +40,7 @@ Knee Joint Copy in Graphite on Strathmore Paper
 
 ![JointShoulder](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/58a42748-20f9-47ad-afa0-dfd3bd54001e)
 Shoulder Joint Copy in Graphite on Strathmore Paper
+
+![SCHLOSS_Project#4_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/1d68e723-ea8a-4067-872e-1f2e79f159a2)
+“The Flower of Youth” Collage on Black Watercolor Paper
+
