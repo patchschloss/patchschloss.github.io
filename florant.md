@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Florant Dewviolet
 ---
 ![SCHLOSS_Project2_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a440000a-62c9-4fa8-92c3-11cef2d62e88)
