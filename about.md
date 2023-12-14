@@ -7,7 +7,7 @@ title: About/Contact
 
 
 ## Hi there! I'm Patrick Schloss.
-I'm a junior at John Paul the Great Catholic University, where I'm studying animation with a focus on visual development and illustration. 
+I'm a senior at John Paul the Great Catholic University, where I'm studying animation with a focus on visual development and illustration. 
 
 I grew up on a small family farm in Dexter, Michigan, which has given me an appreciation for the homely beauty to be found in rural settings, with ever-present farm animals and changing seasons. I also grew up an insatiable reader, immersed in fairy tales and the works of authors like J.R.R. Tolkien, C.S. Lewis, and J.K. Rowling, from whom I learned a love for stories. As an illustrator by trade, I try to unite these two sides by depicting fantastical yet homespun moments of beauty and by designing characters who live in these worlds. Following these loves has drawn me to designing and painting **picture books**, **book covers**, **interior illustrations**, and many other forms of visual storytelling.
 
