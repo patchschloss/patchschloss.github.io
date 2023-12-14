@@ -3,8 +3,7 @@ layout: page
 title: About/Contact
 ---
 
-<img align="right" width="1920" height="2880" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8bbf8b66-7b77-4272-81f6-0c2f05175c54">
-
+<img align="right" width="768" height="1152" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/0b4a66b8-67d8-45c1-bd8b-a396e48bd692">
 
 ## Hi there! I'm Patrick Schloss.
 I'm a senior at John Paul the Great Catholic University, where I'm studying animation with a focus on visual development and illustration. 
