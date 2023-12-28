@@ -17,6 +17,8 @@ Collective Noun Spot Illustration - Ink on Bristol
 ![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
 Digital Character Design Process
 
+[Link](https://patrickschloss.art/florant/)
+
 ![SCHLOSS_Project4_Finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f72455be-e905-4c2d-b22f-38d7192d0b10)
 Anthropomorphic Animal Digital Character Design
 
