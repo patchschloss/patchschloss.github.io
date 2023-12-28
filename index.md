@@ -25,7 +25,3 @@ J.R.R. Tolkien Digital Portrait
 
 ![IMG-0593](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/715cb146-4eb1-4834-ad88-4b51a5c86bac)
 *The Giver* Book Cover - Acrylic on Illustration Board
-
-
-![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
-Digital Character Design Process
