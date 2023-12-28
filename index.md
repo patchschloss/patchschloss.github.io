@@ -12,10 +12,7 @@ Collective Noun Spot Illustration - Ink on Bristol
 "Gentle" Gouache and Watercolor on Illustration Board
 
 [![SCHLOSS_Project2_final(revised)borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/08bdc07f-0c3d-4ff6-99a5-4e64d375d39f "Florant Dewviolet Digital Character Design")](https://patrickschloss.art/florant/)
-
-
-
-["Florant Dewviolet" Digital Character Design](https://patrickschloss.art/florant/)
+"Florant Dewviolet" Digital Character Design
 
 ![SCHLOSS_Project4_Finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f72455be-e905-4c2d-b22f-38d7192d0b10)
 Anthropomorphic Animal Digital Character Design
