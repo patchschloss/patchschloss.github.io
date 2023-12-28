@@ -11,13 +11,8 @@ Collective Noun Spot Illustration - Ink on Bristol
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
 "Gentle" Gouache and Watercolor on Illustration Board
 
-![SCHLOSS_Project2_final(revised)borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/08bdc07f-0c3d-4ff6-99a5-4e64d375d39f){:target=https://patrickschloss.art/florant/}
-"Florant Dewviolet" Digital Character Design
-
-![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
-Digital Character Design Process
-
-[Link](https://patrickschloss.art/florant/)
+![SCHLOSS_Project2_final(revised)borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/08bdc07f-0c3d-4ff6-99a5-4e64d375d39f)
+["Florant Dewviolet" Digital Character Design](https://patrickschloss.art/florant/)
 
 ![SCHLOSS_Project4_Finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f72455be-e905-4c2d-b22f-38d7192d0b10)
 Anthropomorphic Animal Digital Character Design
@@ -30,3 +25,7 @@ J.R.R. Tolkien Digital Portrait
 
 ![IMG-0593](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/715cb146-4eb1-4834-ad88-4b51a5c86bac)
 *The Giver* Book Cover - Acrylic on Illustration Board
+
+
+![SCHLOSS_Project2_process](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/8b86faf1-c320-4ad9-ba21-007c08126bf8)
+Digital Character Design Process
