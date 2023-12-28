@@ -23,6 +23,3 @@ I'd love to receive any and all carrier pigeons, eagles, owls, and magical paper
 [LinkedIn](https://www.linkedin.com/in/patch-schloss/)
 
 ### <em>Thanks for visiting!</em>
-
-<img align="right" width="234" height="351" src="https://github.com/patchschloss/patchschloss.github.io/assets/14957489/daf2b270-7cef-4d93-99a9-c65941c06466">
-
