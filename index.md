@@ -2,7 +2,7 @@
 layout: default
 title: Illustration
 ---
-![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966)
+[![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966 "A Convent of Penguins")](https://patrickschloss.art/penguins/)
 Collective Noun Spot Illustration - Ink on Bristol
 
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
