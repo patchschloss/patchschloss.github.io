@@ -21,5 +21,3 @@ title: Florant Dewviolet
 ![SCHLOSS_Project2_draft04(resized](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a6ca9af2-fbb0-429a-9193-0c00335ef974)
 
 ![SCHLOSS_Project2_draft05(resized)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/75d8e4ea-fa08-4452-bf16-d43b573b591a)
-
-![SCHLOSS_Project2_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/3e7cd8b4-0d90-4671-97fa-4db195c396e7)
