@@ -8,7 +8,7 @@ Collective Noun Spot Illustration - Ink on Bristol
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
 "Daphne" Graphite on Paper
 
-![Angels Joined](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce7915a-256f-4a97-8e4c-0012c3c4ac34)
+![Angels Joined_v2](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/39f2b616-43e2-4d07-af4c-0b54aebb4e22)
 "Technicolor Angels" Colored Pencil on Paper
 
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
