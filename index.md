@@ -20,7 +20,7 @@ Anthropomorphic Animal Digital Character Design
 ![SCHLOSS_Project5_finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/494851ce-801f-4b0f-b77a-ef6147887af5)
 J.R.R. Tolkien Digital Portrait
 
-![Angels Joined_v3](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/99d60aa6-547b-42cd-83d3-0a9ae9b942f5)
+![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
 "Technicolor Angels" Colored Pencil on Paper
 
 ![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/7bcc9dd1-30ac-4647-aae4-a511b53a124d)
