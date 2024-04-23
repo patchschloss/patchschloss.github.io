@@ -3,7 +3,7 @@ layout: default
 title: Illustration
 ---
 [![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966 "A Convent of Penguins")](https://patrickschloss.art/penguins/)
-Collective Noun Spot Illustration - Ink on Bristol
+"A Convent of Penguins" - Collective Noun Spot Illustration - Ink on Bristol
 
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
 "Daphne" Graphite on Paper
@@ -20,7 +20,7 @@ Anthropomorphic Animal Digital Character Design
 ![SCHLOSS_Project5_finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/494851ce-801f-4b0f-b77a-ef6147887af5)
 J.R.R. Tolkien Digital Portrait
 
-![Angels Joined_v2](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/39f2b616-43e2-4d07-af4c-0b54aebb4e22)
+![Angels Joined_v3](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/99d60aa6-547b-42cd-83d3-0a9ae9b942f5)
 "Technicolor Angels" Colored Pencil on Paper
 
 ![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/7bcc9dd1-30ac-4647-aae4-a511b53a124d)
