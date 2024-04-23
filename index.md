@@ -8,9 +8,6 @@ Collective Noun Spot Illustration - Ink on Bristol
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
 "Daphne" Graphite on Paper
 
-![Angels Joined_v2](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/39f2b616-43e2-4d07-af4c-0b54aebb4e22)
-"Technicolor Angels" Colored Pencil on Paper
-
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
 "Gentle" Gouache and Watercolor on Illustration Board
 
@@ -22,6 +19,9 @@ Anthropomorphic Animal Digital Character Design
 
 ![SCHLOSS_Project5_finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/494851ce-801f-4b0f-b77a-ef6147887af5)
 J.R.R. Tolkien Digital Portrait
+
+![Angels Joined_v2](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/39f2b616-43e2-4d07-af4c-0b54aebb4e22)
+"Technicolor Angels" Colored Pencil on Paper
 
 ![Florant in the Woods](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/7bcc9dd1-30ac-4647-aae4-a511b53a124d)
 "Return to the Forest" TTRPG Character Illustration - Graphite on Watercolor Paper
