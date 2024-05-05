@@ -20,9 +20,6 @@ title: Illustration
 ![SCHLOSS_Project4_Finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f72455be-e905-4c2d-b22f-38d7192d0b10)
 Anthropomorphic Animal Digital Character Design
 
-![SCHLOSS_Project5_finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/494851ce-801f-4b0f-b77a-ef6147887af5)
-J.R.R. Tolkien Digital Portrait
-
 ![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
 "Technicolor Angels" Colored Pencil on Paper
 
