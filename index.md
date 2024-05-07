@@ -2,14 +2,11 @@
 layout: default
 title: Illustration
 ---
+![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
+"Technicolor Angels" Colored Pencil on Paper
+
 [![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966 "A Convent of Penguins")](https://patrickschloss.art/penguins/)
 "A Convent of Penguins" - Collective Noun Spot Illustration - Ink on Bristol
-
-![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
-"Daphne" Graphite on Paper
-
-![IMG_5893](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/aa5825ca-fc45-44b2-827b-cc7e6dfdbc04)
-Graphite Drapery Study
 
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
 "Gentle" Gouache and Watercolor on Illustration Board
@@ -23,5 +20,8 @@ Graphite Drapery Study
 ![SCHLOSS_Project4_Finalborderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f72455be-e905-4c2d-b22f-38d7192d0b10)
 Anthropomorphic Animal Digital Character Design
 
-![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
-"Technicolor Angels" Colored Pencil on Paper
+![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
+"Daphne" Graphite on Paper
+
+![IMG_5893](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/aa5825ca-fc45-44b2-827b-cc7e6dfdbc04)
+Graphite Drapery Study
