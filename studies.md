@@ -11,12 +11,6 @@ Quilt Still Life in Graphite on Strathmore Paper
 ![SCHLOSS_Project#2_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/c9d56d81-05cc-4297-929b-6f5a163fa89d)
 Master Copy in Charcoal on Midtone Paper After Chrysès by Michel-Ange Slodtzin
 
-![SCHLOSS_Project#5_finalLD](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/51366a35-0d4f-43f1-9173-26a8ad0221dc)
-Master Copy in Charcoal on Midtone Paper after Michelangelo
-
-![IMG_9081](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/551ca74e-8b90-46d3-98b4-7b57c2e6f612)
-Master Copy in Graphite after Michelangelo
-
 ![IMG_5606](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/f00f334b-6218-47d0-8e71-e6da89a2f852)
 Planar Hand Breakdowns in Graphite on Strathmore Paper
 
