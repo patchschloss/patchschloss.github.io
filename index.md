@@ -22,6 +22,3 @@ Anthropomorphic Animal Digital Character Design
 
 ![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
 "Technicolor Angels" Colored Pencil on Paper
-
-[![IMG-0593](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/715cb146-4eb1-4834-ad88-4b51a5c86bac "_The Giver_ Book Cover")](https://patrickschloss.art/givercover/)
-*The Giver* Book Cover - Acrylic on Illustration Board
