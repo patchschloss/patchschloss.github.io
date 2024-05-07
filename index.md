@@ -8,6 +8,10 @@ title: Illustration
 ![Daphne](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/a2816f5e-6e93-44f9-83bc-c51b747c8f9f)
 "Daphne" Graphite on Paper
 
+![IMG_5893](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/aa5825ca-fc45-44b2-827b-cc7e6dfdbc04)
+![IMG_5606](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/93722b1f-92c2-460e-8f04-0870a82820a2)
+Graphite Studies
+
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
 "Gentle" Gouache and Watercolor on Illustration Board
 
