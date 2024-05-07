@@ -2,11 +2,11 @@
 layout: default
 title: Illustration
 ---
-![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
-"Technicolor Angels" Colored Pencil on Paper
-
 [![Project1 Final - Edited, borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4ce8b641-a8dd-4afa-b76d-dbdb0fbae966 "A Convent of Penguins")](https://patrickschloss.art/penguins/)
 "A Convent of Penguins" - Collective Noun Spot Illustration - Ink on Bristol
+
+![Angels Separated](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/152fc847-91e7-4f13-8c72-d60c0d3e0572)
+"Technicolor Angels" Colored Pencil on Paper
 
 ![SCHLOSS_Project3_final(revised)](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/6a1d9b72-aca1-4a00-a9ad-0739908de143)
 "Gentle" Gouache and Watercolor on Illustration Board
