@@ -15,7 +15,7 @@ title: Illustration
 "Gentle" Gouache and Watercolor on Illustration Board
 
 ![TTS_Joined](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/4a8732eb-e0a1-43f7-9581-a345fa40c3f8)
-"A Tale of Two Ships" Illustrations
+"A Tale of Two Ships" Graphite and Digital Illustrations
 
 [![SCHLOSS_Project2_final(revised)borderless](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/08bdc07f-0c3d-4ff6-99a5-4e64d375d39f "Florant Dewviolet Digital Character Design")](https://patrickschloss.art/florant/)
 "Florant Dewviolet" Digital Character Design
