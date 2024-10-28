@@ -1,5 +1,5 @@
 ---
-layout: page
+layout:
 title: Life Drawing
 ---
 ![IMG_9415bottom](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/d01ab55a-5c35-4b4a-8845-ecaebfe7d499)
