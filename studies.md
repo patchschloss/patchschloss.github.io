@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: Studies
 ---
 ![SCHLOSS_Observational Drawing Project#5_final](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/c78d2c37-cba9-4647-a805-1ec1b277bf8e)
