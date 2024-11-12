@@ -4,7 +4,7 @@ title: Character Design
 ---
 
 ![IMG_0001](https://github.com/user-attachments/assets/8d2677e2-208b-4378-9cd2-c3e3c6e85259)
-
+Brim Slickle, the gnomish seafarer--A digital character design
 ![SCHLOSS_Lineup](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/38b90dee-bf41-4f4e-8bc5-bef838a824c7)
 
 ![Greg08](https://github.com/patchschloss/patchschloss.github.io/assets/14957489/190777e7-5e96-4067-bd3e-25a8a2c9c6e4)
