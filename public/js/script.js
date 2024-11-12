@@ -11,5 +11,5 @@
        (target === checkbox || target === toggle)) return;
 
     checkbox.checked = false;
-  }, false);
+  }, true);
 })(document);
